@@ -12,16 +12,17 @@
 
 接下来是各语言的代码
 
+###这个是HTML语言代码
 ```HTML
-<p>我要杀怪升级<\p>
+<p>我要杀怪升级</p>
 ```
-
+###这个是CSS语言代码
 ```CSS
 background-color：pink；
 width：200px；
 height：200px；
 ```
-
+###这个是JavaScript语言代码
 ```JavaScript
 var a = 1
 console.log(a)
