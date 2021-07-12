@@ -12,17 +12,17 @@
 
 接下来是各语言的代码
 
-····HTML
+···HTML
 <p>我要杀怪升级<\p>
-····
+···
 
-····CSS
+···CSS
 background-color：pink；
 width：200px；
 height：200px；
-····
+···
 
-····JavaScript
+···JavaScript
 var a = 1
 console.log(a)
-····
+···
